@@ -30,3 +30,19 @@ This project implements a state-of-the-art e-commerce recommendation system that
 ```bash
 git clone https://github.com/your-username/ecommerce-recommender.git
 cd ecommerce-recommender
+```
+
+
+### 2. Backend Setup
+
+```bash
+cd backend
+pip install -r requirements.txt
+python -m uvicorn app.main:app --reload
+```
+### 3. Frontend Setup
+```bash
+cd frontend
+npm install
+npm start
+```
