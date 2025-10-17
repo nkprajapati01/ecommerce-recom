@@ -17,12 +17,8 @@ This project implements a state-of-the-art e-commerce recommendation system that
 
 ## Technologies Used
 - **Python**, **FastAPI** (Backend API)
-- **PostgreSQL**, **MongoDB** (Databases)
-- **Redis** (Cache)
-- **Scikit-learn** (Machine learning algorithms)
 - **React.js** and **Tailwind CSS** (Frontend dashboard)
 - **OpenAI GPT** or equivalent (LLM for explanation generation)
-- **Docker** and **Kubernetes** for containerization and deployment
 
 ## Installation and Setup
 
